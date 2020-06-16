@@ -1,5 +1,5 @@
 # Hypermona
-A new front-end design for matrimonial website .tools used 'HTML, CSS, BOOSTRAP '
+A new front-end design for matrimonial website .tools used 'HTML, CSS, BOOTSTRAP '
 It is a small trail in my development process.
 Download all files 
 Then save everything in one folder
